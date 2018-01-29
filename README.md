@@ -1,2 +1,1 @@
-# hello-world
-Hi, I am Chenchen, a PhD student at Stanford, focusing on data visualization. 
+Applied Data Science with Python Specialization: Course 1 (University of Michigan)
